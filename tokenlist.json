@@ -1,0 +1,26 @@
+{
+  "name": "Coinagotchi Token List",
+  "logoURI": "https://raw.githubusercontent.com/Arturik43/coinagotchi-tokenlist/main/token.png",
+  "timestamp": "2025-08-14T18:05:17.154356Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "keywords": [
+    "coinagotchi",
+    "token",
+    "polygon",
+    "amoy"
+  ],
+  "tokens": [
+    {
+      "chainId": 80002,
+      "address": "0x8C162885eC699c2631dA90A602a8852CFb490B52",
+      "name": "Coinagotchi Token",
+      "symbol": "CGT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Arturik43/coinagotchi-tokenlist/main/token.png"
+    }
+  ]
+}
